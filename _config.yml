@@ -6,8 +6,8 @@ author: "Your Name"
 
 # PICK YOUR LOOK: keep exactly ONE of these four lines without a # in front.
 # To switch, put a # in front of the current one and remove the # from the new one.
-theme: jekyll-theme-hacker
-# theme: jekyll-theme-midnight
+# theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-slate
 
